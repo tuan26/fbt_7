@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+/home/ngocha/workspace/fbt_7/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2092791710.index
+/framgia_project/src
